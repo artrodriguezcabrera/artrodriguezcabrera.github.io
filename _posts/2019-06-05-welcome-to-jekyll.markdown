@@ -1,25 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello GitHub Pages"
 date:   2019-06-05 19:02:01 -0400
-categories: jekyll update
+categories: blog github
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I have decided to create a GitHub Page.  I intend to use this site to document all the amazing things that a developer encounters.  At the moment, I am very interested in learning about React Native and .NET Core Framework.  They are on completely different sides of the spectrum.  One is a skill I have to pick up for work.  The other one is something I have been very intersted in learning for a couple of years.  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I work for [minds + assembly][mna] as a lead developer in New York.  We work on a lot of different projects which allow me to touch many new technologies.  I also ensure to guide our teams in the best solutions and technologies we can provide to our clients.
 
-Jekyll also offers powerful support for code snippets:
+[mna]: https://mna.co
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
